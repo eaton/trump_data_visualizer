@@ -1,6 +1,3 @@
 # Trump Data Visualizer
 
-This is the home page of your new Observable Framework app.
-
-For more, see <https://observablehq.com/framework/getting-started>.
-
+This is an [Observable Framework](https://observablehq.com/framework/) app that provides a visual interface to Jacob Harris' [Trump Data](https://github.com/harrisj/trump_data) repository.
